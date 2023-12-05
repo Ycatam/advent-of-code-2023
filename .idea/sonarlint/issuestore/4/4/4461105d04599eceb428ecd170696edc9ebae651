@@ -1,0 +1,18 @@
+
+{	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(”õ’Ãıÿÿÿÿ8ëß‘´Ã1
+_
+java:S2094"BRemove this empty class, write its code or make it an "interface".(¢ñ°ä8ìÃ—´Ã1
+P
+java:S1128"3Remove this unused import 'java.io.BufferedReader'.(€é²Å8íÃ—´Ã1
+F
+java:S1128")Remove this unused import 'java.net.URI'.(Ö¦¨°8íÃ—´Ã1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Files'.(‚ƒü8îÃ—´Ã1
+L
+java:S1128"/Remove this unused import 'java.nio.file.Path'.(×²êÂ8îÃ—´Ã1
+M
+java:S1128"0Remove this unused import 'java.nio.file.Paths'.(áè°¯8îÃ—´Ã1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8îÃ—´Ã1
+M
+java:S1128	"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8îÃ—´Ã1
